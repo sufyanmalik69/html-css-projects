@@ -1,0 +1,24 @@
+#div1,#div3{
+    background-color: lightblue;
+    display: flex;
+}
+#div2{
+    background-color: lightpink;
+    flex: 1;
+}
+.div {
+    width: 200px;
+    height: 150px;
+}
+#abbu-div{
+    display: flex;
+    gap: 10px 10px;
+}
+.div2{
+    background-color: black;
+    color: white;
+    position: absolute;
+}
+.div1{
+    background-color: blue;
+}

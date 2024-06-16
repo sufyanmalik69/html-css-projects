@@ -1,0 +1,92 @@
+.menu-bar{
+    box-shadow: grey;
+    width: 244px;
+    height: 1200px;
+    border-width: 0.1px;
+    border-right-style:solid;
+    border-color: rgba(128, 128, 128,0.3);
+    display: grid;
+    grid-template-rows: 100px;
+}
+.img-logo{
+    background-color: white;
+    width: 110px;
+    height: 40px
+}
+.insta-logo{
+    width: 220px;
+    align-content: center;
+    height: 92px;
+}
+.logo-con{
+    width: 196px;
+    height: 36PX;    
+    padding-left: 16px;
+    padding-top: 30px;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.home button {
+    color: white;
+    border: none;
+    display: grid;
+    height: 100%;
+    width: 100%;
+    grid-template-columns: 45px 40px;
+    padding-left: 10px;
+    margin-left: 10px;
+    border-radius: 7px;
+    background-color: white;
+}
+.home button:hover{
+    background-color: rgba(235, 232, 232,0.8);
+    transition:ease-in 0.1s;
+    cursor: pointer;
+}
+
+.house-img{
+    width: 100%;
+    height: 100%;
+
+}
+.divhouse{
+    width: 25px;
+    height: 25px;
+    align-self: center;
+}
+.home-p {
+    color: black;
+    align-self: center;
+    font-size: 15px;
+    margin: 0px;
+    margin-top: 8px;
+}
+.divhome{
+    width: 40px;
+    height: 30px;
+    align-self:center ;
+}
+.home,.serach {
+    height: 48px;
+    width: 220px;
+    margin-left: 4px;
+}
+
+.menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 500px;
+}
+.divprofilepic{
+    width: 25px;
+    height: 25px;
+    align-self: center;
+}
+.profile-img{
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+}

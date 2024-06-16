@@ -1,0 +1,18 @@
+#menu-img:after{
+    vertical-align: center;
+    
+}
+a{
+    display: flex;
+}
+.menu-bar{
+width: 250px;
+height: 1200px;
+position: fixed;
+display: none;
+z-index: 1000;
+background-color: rgb(1, 14, 25);
+}
+.show{
+    display: block;
+}

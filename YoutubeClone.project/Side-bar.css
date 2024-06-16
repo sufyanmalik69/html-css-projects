@@ -1,0 +1,50 @@
+.Side-bar{
+    width: 72px;
+    height: 1000px;
+    position: fixed;
+    background-color: grey;
+    left: 0px;
+    z-index: 100;
+    top: 56px;
+    background-color: white;
+    padding-top: 5px;
+    display:flex;
+    justify-content: start;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+.home-icon{
+    width: 72px;
+    height: 72px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.home-img-yt{
+    width: 24px;
+    height: 24px;
+    align-self: center;
+    margin-bottom: 5px;
+}
+.Home-txt,.explore-txt,.Subscriptions-txt,.youtube-music-txt,.Original-txt,.library-txt{
+    width: 26.91px;
+    height: 15px;
+    font-size: 10px;
+    font-family: roborto,Arial,sans-serif;
+    align-self: center;
+}
+.explore-txt{
+    width: 32.97px;
+}
+.Subscriptions-txt{
+    width: 60.94px;
+}
+.Original-txt{
+    width: 39.27px;
+}
+.youtube-music-txt{
+    width:68.38px ;
+}
+.library-txt{
+    width: 30.25px;
+}

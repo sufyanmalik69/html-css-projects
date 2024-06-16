@@ -1,0 +1,72 @@
+p {
+    font-family: Arial;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.tahoma_font {
+    font-family: Tahoma;
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 100px;
+}
+.biggest_deals {
+    font-weight: bold;
+    font-size: 25px;
+}
+.sales_end {
+    color: gray;
+    margin-bottom: 100px;
+}
+.html_course {
+    font-family: Verdana;
+    font-weight: bold;
+    font-size: 25px;
+}
+.beginner_to {
+    color: gray;
+    margin-bottom: 20px;
+}
+.in_this_course {
+    color: black;
+    width: 250px;
+    margin-bottom: 20px;
+}
+.get_started {
+    size: 50px,50px,50px,50px;
+    background-color: green;
+    color: white;
+    border-color: green;
+    border-radius: 4px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font: Arial;
+}
+.get_started:hover {
+    cursor: pointer;
+}
+.get_started:active{
+    opacity: 0.6;
+    
+}
+.shopping {
+    font-weight: bold;
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+.Apple {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.learn_more {
+    text-align: center;
+    color: blue;
+}
+.learn_more:hover {
+    cursor: pointer;
+    text-decoration: underline;
+
+}

@@ -1,0 +1,91 @@
+.ip1{
+    width: 90px;
+    height: 30px;
+    border-color: blue;
+    border-width: 1px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+.ip2{
+    width: 90px;
+    height: 30px;
+    border-color: rgb(112, 112, 238);
+    border-width: 1px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+.ip3{
+    display: block;
+    margin-top: 8px;
+    height: 30px;
+    width: 200px;
+    border-color: rgb(112, 112, 238,);
+    border-width: 1px;
+    border-radius: 5px;
+    padding-left: 10px;
+
+}
+.sign_up{
+    margin-top: 8px;
+    background-color: rgb(112, 112, 238);
+    color: white;
+    font-family: Arial;
+    font-weight: bold;
+    border-color: rgb(112, 112, 238);
+    border-width: 1px;
+    border-radius: 5px;
+    width: 215px;
+    height: 30px;
+    margin-bottom: 100px;
+
+}
+.sign_up:hover {
+    cursor: pointer;
+    opacity: 0.8;
+}
+.sign_up:active{
+    opacity: 0.6;
+}
+.request {
+    font-size: 30px;
+    font-family: Arial;
+    margin-bottom: 20px;
+}
+.ip4 {
+    width: 270px;
+    height: 35px;
+    border-radius: 0px;
+    border: none;
+    background-color: rgb(216, 255, 242);
+    margin-bottom: 8px;
+}
+.ip5 {
+    width: 270px;
+    height: 35px;
+    border-radius: 0px;
+    border: none;
+    background-color: rgb(216, 255, 242);
+    display: block;
+    margin-bottom: 40px;
+
+}
+.request2 {
+    background-color: black;
+    color: white;
+    width: 100px;
+    height: 35px;
+    border: none;
+}
+.request2:hover {
+    cursor: pointer;
+}
+.schedule {
+    background-color: rgb(216, 255, 242);
+    border: none;
+    width: 120px;
+    height: 35px;
+    margin-left: 10px;
+}
+.schedule:hover {
+    cursor: pointer;
+}

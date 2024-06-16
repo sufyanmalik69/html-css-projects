@@ -1,0 +1,17 @@
+.time-stamp{
+    background-color: rgba(0, 0, 0, 0.9);
+    position: absolute;
+    z-index: 100;
+    color: white;
+    right: 4px;
+    bottom: 7px;
+    padding: 2px 4px;
+    border-radius: 2px;
+    align-items: center;
+
+    font-family: roborto,arial,sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 1.5;
+    display: flex;
+}

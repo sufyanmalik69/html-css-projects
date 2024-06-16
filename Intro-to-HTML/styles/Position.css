@@ -1,0 +1,60 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.header {
+    background-color: black;
+    height: 70px;
+    width: 1700px;
+    color: white;
+    display:flex;
+    position: fixed;
+    z-index: 100;
+    
+}
+.side-bar{
+    background-color: rgb(255, 0, 0);
+    height: 1200px;
+    width: 70px;
+    color: white;
+    display:flex;
+    position: fixed;
+    z-index: 100;
+    top: 70px;
+}
+.video1{
+    background-color: lightblue;
+    z-index: 101;
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    grid-column: 1;
+}
+.video2{
+    background-color: lightpink;
+    position: absolute;
+    z-index: 101;
+    width: 400px;
+    height: 300px;
+    grid-column: 2;
+}
+.time{
+    background-color: black;
+    position: absolute;
+    z-index: 102;
+    color: white;
+    right: 10px;
+    bottom: 0px;
+}
+.video-grid{
+    background-color: lightgreen;
+    position: relative;
+    top: 80px;
+    display: grid;
+    grid-template-columns: 400px 400px;
+    min-width: 600px;
+    left: 80px;
+    height: 600px;
+    width: 800px;
+    
+}
