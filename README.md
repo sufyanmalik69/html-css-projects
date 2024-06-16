@@ -2,7 +2,7 @@
 - 👀 I’m interested in working on new projects.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on new projects.
-- 📫 How to reach me (insta @sufyan_malik_tanoli).
+- 📫 How to reach me (insta @sufyan._.malikkk).
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am batman.
 
